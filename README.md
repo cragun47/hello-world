@@ -1,2 +1,2 @@
 # hello-world
-Learning repository
+Learning repository by Cragun
